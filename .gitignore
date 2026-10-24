@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.bak
+
+# Environments & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Development Context & Generation Tools (Kept local, excluded from public repo)
+.agents/
+docs/SYSTEM_PROMPT.md
+cad/generate_rocket_sheet.py
